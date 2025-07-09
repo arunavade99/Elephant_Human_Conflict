@@ -1,0 +1,10 @@
+playsound==1.2.2
+pandas
+matplotlib
+python-git
+imutils
+tf-slim
+future
+ultralytics==8.2.91
+sqlite==3.45.3
+mysql-connector-python
